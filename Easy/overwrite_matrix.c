@@ -12,7 +12,7 @@ printf("Taper l'ordre de la matrice >> ");
 			int matrice[N][N];
 			
 	// OVERWRITE CURRENT VALUES
-    write((int *)matrice);
+   	 write((int *)matrice);
     
 	//SHOW THE MATRIX
 	show((int *)matrice); 
@@ -34,7 +34,7 @@ void show(int*matrice){
 	int j, i;
     for (i=0; i<N; i++){
 		for (j=0; j<N; j++){
-        printf("[%d] \t", *((matrice+i*N) + j));
+       		 printf("[%d] \t", *((matrice+i*N) + j));
 		}
 		printf("\n");
 	}
