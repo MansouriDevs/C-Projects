@@ -7,7 +7,7 @@
             5.0     7.0     9.0     |21.0
             
 --------------------------------------------------------------
-+ TBL_ENT1.c & TBL_ENT2.c : 
++ TBL_ENT1.c & TBL_ENT2.c :
     * This code will take a dynamic numbers of integers and store them in a INT ARRAY..
  -------------------------------------------------------------
  + Dyanmic_input.c :
